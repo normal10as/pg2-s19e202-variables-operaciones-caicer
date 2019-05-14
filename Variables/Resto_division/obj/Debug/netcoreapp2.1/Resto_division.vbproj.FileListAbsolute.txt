@@ -1,0 +1,10 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.deps.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.runtimeconfig.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.runtimeconfig.dev.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.pdb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.AssemblyInfoInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.AssemblyInfo.vb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.pdb

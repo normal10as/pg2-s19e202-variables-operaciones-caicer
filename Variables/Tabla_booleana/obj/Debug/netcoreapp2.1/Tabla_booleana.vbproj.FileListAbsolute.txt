@@ -1,0 +1,11 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.deps.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.runtimeconfig.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.runtimeconfig.dev.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.pdb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.vbprojAssemblyReference.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.AssemblyInfoInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.AssemblyInfo.vb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.pdb

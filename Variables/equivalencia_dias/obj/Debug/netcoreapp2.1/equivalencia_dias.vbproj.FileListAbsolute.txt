@@ -1,0 +1,10 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.deps.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.runtimeconfig.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.runtimeconfig.dev.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.pdb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.AssemblyInfoInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.AssemblyInfo.vb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.pdb

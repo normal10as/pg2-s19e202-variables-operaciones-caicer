@@ -1,0 +1,11 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\bin\Debug\Refrase.exe.config
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\bin\Debug\Refrase.exe
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\bin\Debug\Refrase.pdb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\bin\Debug\Refrase.xml
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\Refrase.vbprojAssemblyReference.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\Refrase.Resources.resources
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\Refrase.vbproj.GenerateResource.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\Refrase.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\Refrase.exe
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\Refrase.xml
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\Refrase.pdb

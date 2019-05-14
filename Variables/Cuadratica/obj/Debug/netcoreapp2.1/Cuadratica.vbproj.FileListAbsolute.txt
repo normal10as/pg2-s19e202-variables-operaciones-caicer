@@ -1,0 +1,10 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.deps.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.runtimeconfig.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.runtimeconfig.dev.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.pdb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.AssemblyInfoInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.AssemblyInfo.vb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.pdb

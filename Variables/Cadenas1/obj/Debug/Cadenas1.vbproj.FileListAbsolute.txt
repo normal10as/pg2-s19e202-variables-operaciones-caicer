@@ -1,0 +1,11 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\bin\Debug\Cadenas1.exe.config
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\bin\Debug\Cadenas1.exe
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\bin\Debug\Cadenas1.pdb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\bin\Debug\Cadenas1.xml
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\obj\Debug\Cadenas1.vbprojAssemblyReference.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\obj\Debug\Cadenas1.Resources.resources
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\obj\Debug\Cadenas1.vbproj.GenerateResource.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\obj\Debug\Cadenas1.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\obj\Debug\Cadenas1.exe
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\obj\Debug\Cadenas1.xml
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Cadenas1\obj\Debug\Cadenas1.pdb

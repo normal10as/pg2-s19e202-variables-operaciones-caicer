@@ -1,0 +1,11 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.deps.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.runtimeconfig.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.runtimeconfig.dev.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.pdb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.vbprojAssemblyReference.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.AssemblyInfoInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.AssemblyInfo.vb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.pdb

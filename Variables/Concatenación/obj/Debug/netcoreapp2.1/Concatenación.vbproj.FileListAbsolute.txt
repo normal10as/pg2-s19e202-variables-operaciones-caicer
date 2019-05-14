@@ -1,0 +1,11 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\obj\Debug\netcoreapp2.1\Concatenación.vbprojAssemblyReference.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\obj\Debug\netcoreapp2.1\Concatenación.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\obj\Debug\netcoreapp2.1\Concatenación.AssemblyInfoInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\obj\Debug\netcoreapp2.1\Concatenación.AssemblyInfo.vb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\bin\Debug\netcoreapp2.1\Concatenación.deps.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\bin\Debug\netcoreapp2.1\Concatenación.runtimeconfig.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\bin\Debug\netcoreapp2.1\Concatenación.runtimeconfig.dev.json
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\bin\Debug\netcoreapp2.1\Concatenación.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\bin\Debug\netcoreapp2.1\Concatenación.pdb
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\obj\Debug\netcoreapp2.1\Concatenación.dll
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Concatenación\obj\Debug\netcoreapp2.1\Concatenación.pdb
